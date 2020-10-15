@@ -10,7 +10,11 @@ Welcome to auto-socialabs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Modules:
 
+   _modules/cloud_templatingw
 
 Indices and tables
 ==================
