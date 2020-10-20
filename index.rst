@@ -14,7 +14,7 @@ Welcome to auto-socialabs's documentation!
    :maxdepth: 2
    :caption: Modules:
 
-   _modules/cloud_templatingw
+   _modules/cloud_templating
 
 Indices and tables
 ==================
