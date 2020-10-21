@@ -158,6 +158,7 @@ Attaching Storage
 ==================
 It is common to have any workloads to have additional storage volumes attached to them to store data. In this lab, we will be going through how can we provision a storage volume to the template.
 
+.. note:: This section is WIP
 
 Conclusion
 ==========
